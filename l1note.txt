@@ -1,0 +1,17 @@
+Myanmar Font - utf8_unicode_ci (or) utf8_general_ci
+
+
+Database > Tables > Columns
+
+for only number = INT
+for text and number = VARCHAR ( only few letter can be used )
+for text and number = TEXT ( many letters can be used )
+
+HW-
+abccompanies (database name)
+employees (table name)
+id
+firstname
+lastname
+phone
+address	
